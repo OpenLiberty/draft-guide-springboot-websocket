@@ -1,3 +1,10 @@
+// Copyright (c) 2020 IBM Corporation and others.
+// Licensed under Creative Commons Attribution-NoDerivatives
+// 4.0 International (CC BY-ND 4.0)
+//   https://creativecommons.org/licenses/by-nd/4.0/
+//
+// Contributors:
+//   IBM Corporation
 :projectid: springboot-websocket
 :page-layout: guide-multipane
 :page-duration: 20 minutes
@@ -14,3 +21,6 @@
 :page-seo-title: 
 :page-seo-description: 
 :source-highlighter: prettify
+
+[.hidden]
+NOTE: This repository contains the guide documentation source. To view the guide in published form, view it on the https://openliberty.io/guides/{projectid}.html[Open Liberty website].
